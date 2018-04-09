@@ -1,16 +1,20 @@
 $(document).ready(function(){
 	initPlayer();
 	getSongs();
+	window.onload = startsong;
 });
 var audio;
 var music;
 audio = document.getElementById('player');
+
+function startsong(){
+	playSong(0);
+}
 function initPlayer(){
 	$('#shuffle').click(function(){
 		$('#playlist').empty();
 		console.log(shuffle(music.songs));
 		genList(music);
-		playSong(0);
 	});
 }
 function playSong(id){
