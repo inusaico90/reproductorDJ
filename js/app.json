@@ -1,0 +1,642 @@
+{
+    "songs":[
+        {
+            "id":0,
+            "name":"Flaca",
+            "artist":"Andrés Calamaro",
+            "song":"../music/AndresCalamaro-Flaca.mp3",
+            "image":"img/002.jpg"
+        },
+        {
+            "id":1,
+            "name":"Heroes",
+            "artist":"David Bowie",
+            "song":".../music/DavidBowie-Heroes.mp3",
+            "image":""
+        },
+        {
+            "id":2,
+            "name":"VersoTerso",
+            "artist":"Cultura Profetica",
+            "song":"../music/CulturaProfetica-VersoTerso.mp3",
+            "image":"img/002.jpg"
+        },
+        {
+            "id":3,
+            "name":"Legalización",
+            "artist":"Ska-p",
+            "song":"../music/Ska-P-Cannabis.mp3",
+            "image":""
+        },
+        {
+            "id":4,
+            "name":"Puto",
+            "artist":"Molotov",
+            "song":"../music/Molotov - Puto.mp3",
+            "image":""
+        },
+        {
+            "id":5,
+            "name":"Vuelves",
+            "artist":"Rozalén",
+            "song":"../music/Rozalén - Vuelves.mp3",
+            "image":""
+        },
+        {
+            "id":6,
+            "name":"Vuelves",
+            "artist":"Rozalén",
+            "song":"../music/Rozalén - Vuelves.mp3",
+            "image":""
+        },
+        {
+            "id":7,
+            "name":"Yo plato",
+            "artist":"Quique Neira FT: Alborosie)",
+            "song":"../music/Quique Neira - Yo Planto (feat. Alborosie).mp3",
+            "image":""
+        },
+        {
+            "id":8,
+            "name":"En la ciudad de la Furia",
+            "artist":"Soda Stereo",
+            "song":"../music/SodaStereo-EnLaCiudadDeLaFuria.mp3",
+            "image":""
+        },
+        {
+            "id":9,
+            "name":"El baile de los que sobran",
+            "artist":"Los prisioneros",
+            "song":"../music/LosPrisioneros-El BaileDeLosQueSobran.mp3",
+            "image":""
+        },
+        {
+            "id":10,
+            "name":"Mi historia entre tus dedos",
+            "artist":"Noel Scharjris",
+            "song":"../music/Noel Schajris - Mi Historia Entre Tus Dedos.mp3",
+            "image":""
+        },
+        {
+            "id":11,
+            "name":"Tu m'as promis",
+            "artist":"Monsieur Perine",
+            "song":"../music/Monsieur Perine - Tu m'as promis.mp3",
+            "image":""
+        },
+        {
+            "id":12,
+            "name":"La chispa adecuada",
+            "artist":"Heroes del silencio",
+            "song":"../music/HeroesDelSilencio-LaChispaAdecuada.mp3",
+            "image":""
+        },
+        {
+            "id":13,
+            "name":"Nota de suicidio",
+            "artist":"Porta FT: soma",
+            "song":"../music/Porta - Nota De Suicidio (Con Soma).mp3",
+            "image":""
+        },
+        {
+            "id":14,
+            "name":"Corazón Delator",
+            "artist":"Soda Stereo",
+            "song":"../music/SodaStereo-CorazonDelator.mp3",
+            "image":""
+        },
+        {
+            "id":15,
+            "name":"Siguiendo la luna",
+            "artist":"Los fabulosos Cadillacs",
+            "song":"../music/LosFabulososCadillacs-SiguiendoLaLuna.mp3",
+            "image":""
+        },
+        {
+            "id":16,
+            "name":"Persiana Americana",
+            "artist":"Soda Stereo",
+            "song":"../music/SodaStereo-PersianaAmericana.mp3",
+            "image":""
+        },
+        {
+            "id":17,
+            "name":"De música ligera",
+            "artist":"Soda Stereo",
+            "song":"../music/SodaStereo-DeMusicaLigera.mp3",
+            "image":""
+        },
+        {
+            "id":18,
+            "name":"Fuerza Natural",
+            "artist":"Gustavo Cerati",
+            "song":"../music/GustavoCerati-FuerzaNatural.mp3",
+            "image":""
+        },
+        {
+            "id":19,
+            "name":"No lo soñe",
+            "artist":"Diego Torres",
+            "song":"../music/DiegoTorres-NoLoSoñe.mp3",
+            "image":""
+        },
+        {
+            "id":20,
+            "name":"Lo que construimos",
+            "artist":"Natalia Lafourcade",
+            "song":"../music/Natalia Lafourcade - Lo Que Construimos.mp3",
+            "image":""
+        },
+        {
+            "id":21,
+            "name":"La ultima noche",
+            "artist":"Diego Torres",
+            "song":"../music/DiegoTorres-LaUltimaNoche.mp3",
+            "image":""
+        },
+        {
+            "id":22,
+            "name":"Hoy te pido perdón",
+            "artist":"MC Richix",
+            "song":"../music/MC Richix - Hoy Te Pido Perdón.mp3",
+            "image":""
+        },
+        {
+            "id":23,
+            "name":"Aunque duela aceptarlo",
+            "artist":"Noel Scharjris ft: Luis Fonsi",
+            "song":"../music/Noel Schajris - Aunque Duela Aceptarlo (A Dueto Con Luis Fonsi).mp3",
+            "image":""
+        },
+        {
+            "id":24,
+            "name":"No nos digamos mentiras",
+            "artist":"Santiago Cruz",
+            "song":"../music/Santiago Cruz - No Nos Digamos Mentiras.mp3",
+            "image":""
+        },
+        {
+            "id":25,
+            "name":"Nuestra Canción",
+            "artist":"Monsieur Perine",
+            "song":"../music/Monsieur Perine - Nuestra Canción.mp3",
+            "image":""
+        },
+        {
+            "id":26,
+            "name":"Amor",
+            "artist":"Porta",
+            "song":"../music/Porta - Amor.mp3",
+            "image":""
+        },
+        {
+            "id":27,
+            "name":"Tierra Indigena",
+            "artist":"Big Mountain",
+            "song":"../music/BigMountain-TierraIndigena.mp3",
+            "image":""
+        },
+        {
+            "id":28,
+            "name":"Donde van",
+            "artist":"Diego Torres",
+            "song":"../music/DiegoTorres-DondeVan.mp3",
+            "image":""
+        },
+        {
+            "id":29,
+            "name":"He pecado",
+            "artist":"Cabas",
+            "song":"../music/Cabas-HePecado.mp3",
+            "image":""
+        },
+        {
+            "id":30,
+            "name":"Laberintos",
+            "artist":"Dread Mar I",
+            "song":"../music/DreadMarI-Laberintos.mp3",
+            "image":""
+        },
+        {
+            "id":31,
+            "name":"Nada",
+            "artist":"Dread Mar I",
+            "song":"../music/DreadMarI-Nada.mp3",
+            "image":""
+        },
+        {
+            "id":32,
+            "name":"Bonito",
+            "artist":"Jarabe de palo",
+            "song":"../music/JarabeDePalo-Bonito.mp3",
+            "image":""
+        },
+        {
+            "id":33,
+            "name":"Por qué no se van",
+            "artist":"Los prisioneros",
+            "song":"../music/LosPrisioneros-PorqueNoSeVan.mp3",
+            "image":""
+        },
+        {
+            "id":34,
+            "name":"Una historia diferente",
+            "artist":"Santiago Cruz",
+            "song":"../music/Santiago Cruz - Una Historia Diferente.mp3",
+            "image":""
+        },
+        {
+            "id":35,
+            "name":"Este sol",
+            "artist":"Yerberos",
+            "song":"../music/Yerberos-EsteSol.mp3",
+            "image":""
+        },
+        {
+            "id":36,
+            "name":"Día tras día",
+            "artist":"Andrés Cepeda",
+            "song":"../music/AndresCepeda-DiaTrasDia.mp3",
+            "image":""
+        },
+        {
+            "id":37,
+            "name":"Tu sin mi",
+            "artist":"Dread Mar I",
+            "song":"../music/DreadMarI-TuSinMi.mp3",
+            "image":""
+        },
+        {
+            "id":38,
+            "name":"Amor del bueno",
+            "artist":"Reyli Barba",
+            "song":"../music/Reyli Barba - Amor del Bueno.mp3",
+            "image":""
+        },
+        {
+            "id":39,
+            "name":"Eres",
+            "artist":"Gusi",
+            "song":"../music/Gusi-Eres.mp3",
+            "image":""
+        },
+        {
+            "id":40,
+            "name":"Comiendote a besos",
+            "artist":"Rozalén",
+            "song":"../music/Rozalén - Comiendote a Besos.mp3",
+            "image":""
+        },
+        {
+            "id":41,
+            "name":"Fuma de humo y sana",
+            "artist":"Zona Ganjah",
+            "song":"../music/ZonaGanjah-FumaDeHumoYSana.mp3",
+            "image":""
+        },
+        {
+            "id":42,
+            "name":"Arroyito",
+            "artist":"Fonseca",
+            "song":"../music/Fonseca-Arroyito.mp3",
+            "image":""
+        },
+        {
+            "id":43,
+            "name":"Somos dos",
+            "artist":"Bomba Estereo",
+            "song":"../music/BombaEstereo-SomosDos.mp3",
+            "image":""
+        },
+        {
+            "id":44,
+            "name":"Nunca es suficiente",
+            "artist":"Natalia Lafourcade",
+            "song":"../music/Natalia Lafourcade - Nunca Es Suficiente.mp3",
+            "image":""
+        },
+        {
+            "id":45,
+            "name":"Baja la guardia",
+            "artist":"Santiago Cruz",
+            "song":"../music/Santiago Cruz - Baja la Guardia.mp3",
+            "image":""
+        },
+        {
+            "id":46,
+            "name":"En algun lugar",
+            "artist":"Duncan Dhu",
+            "song":"../music/DuncanDhu-EnAlgunLugar.mp3",
+            "image":""
+        },
+        {
+            "id":47,
+            "name":"Para No olvidar",
+            "artist":"Los rodríguez",
+            "song":"../music/LosRodríguez-ParaNoOlvidar.mp3",
+            "image":""
+        },
+        {
+            "id":48,
+            "name":"Crimen",
+            "artist":"Gustavo Cerati",
+            "song":"../music/GustavoCerati-Crimen.mp3",
+            "image":""
+        },
+        {
+            "id":49,
+            "name":"Lobo-hombre en paris",
+            "artist":"La unión",
+            "song":"../music/LaUnión-LoboHombreEnParis.mp3",
+            "image":""
+        },
+        {
+            "id":50,
+            "name":"En está no",
+            "artist":"Sin bandera",
+            "song":"../music/Sin Bandera - En Ésta No.mp3",
+            "image":""
+        },
+        {
+            "id":51,
+            "name":"Cómo haces",
+            "artist":"Santiago Cruz",
+            "song":"../music/Santiago Cruz - Cómo Haces (Album Version).mp3",
+            "image":""
+        },
+        {
+            "id":52,
+            "name":"Un ratito",
+            "artist":"Andrés Cepeda",
+            "song":"../music/AndresCepeda-UnRatito.mp3",
+            "image":""
+        },
+        {
+            "id":53,
+            "name":"Te mando flores",
+            "artist":"Fonseca",
+            "song":"../music/Fonseca-Te MandoFlores.mp3",
+            "image":""
+        },
+        {
+            "id":54,
+            "name":"Laura no está",
+            "artist":"Nek",
+            "song":"../music/Nek - Laura no està.mp3",
+            "image":""
+        },
+        {
+            "id":55,
+            "name":"te quiero",
+            "artist":"HombresG",
+            "song":"../music/HombresG-TeQuiero.mp3",
+            "image":""
+        },
+        {
+            "id":56,
+            "name":"Sabes",
+            "artist":"Reik",
+            "song":"../music/Reik - Sabes.mp3",
+            "image":""
+        },
+        {
+            "id":57,
+            "name":"No hace falta",
+            "artist":"Monsieur Perine",
+            "song":"../music/Monsieur Perine - No hace falta.mp3",
+            "image":""
+        },
+        {
+            "id":58,
+            "name":"De venus",
+            "artist":"Camila",
+            "song":"../music/Camila-DeVenus.mp3",
+            "image":""
+        },
+        {
+            "id":59,
+            "name":"Una canción",
+            "artist":"Los de adentro",
+            "song":"../music/LosDeAdentro-UnaCancion.mp3",
+            "image":""
+        },
+        {
+            "id":60,
+            "name":"Emocional",
+            "artist":"Dani Marti",
+            "song":"../music/DaniMartin-Emocional.mp3",
+            "image":""
+        },
+        {
+            "id":61,
+            "name":"Algo contigo",
+            "artist":"Vicentico",
+            "song":"../music/Vicentico-AlgoContigo.mp3",
+            "image":""
+        },
+        {
+            "id":62,
+            "name":"Y si te quedas ¿qué?",
+            "artist":"Santiago Cruz",
+            "song":"../music/Santiago Cruz - Y Si Te Quedas, Qué?.mp3",
+            "image":""
+        },
+        {
+            "id":63,
+            "name":"In the end",
+            "artist":"Linkin Park",
+            "song":"../music/LinkinPark-InTheEnd.mp3",
+            "image":""
+        },
+        {
+            "id":64,
+            "name":"Tratar de estar mejor",
+            "artist":"Diego Torres",
+            "song":"../music/DiegoTorres-TratarDeEstarMejor.mp3",
+            "image":""
+        },
+        {
+            "id":65,
+            "name":"Lo mejor que hay",
+            "artist":"Andrés Cepeda",
+            "song":"../music/AndresCepeda-LoMejorQueHay.mp3",
+            "image":""
+        },
+        {
+            "id":66,
+            "name":"de voce so quero amor",
+            "artist":"Planta e Raiz",
+            "song":"../music/Planta E Raiz - De Voce Só Quero Amor.mp3",
+            "image":""
+        },
+        {
+            "id":67,
+            "name":"Ganjaman",
+            "artist":"Morodo",
+            "song":"../music/Morodo - Ganjaman.mp3",
+            "image":""
+        },
+        {
+            "id":68,
+            "name":"Contigo",
+            "artist":"Gusi",
+            "song":"../music/Gusi-Contigo.mp3",
+            "image":""
+        },
+        {
+            "id":69,
+            "name":"Yo que tanto te espere",
+            "artist":"Andrés Cepeda",
+            "song":"../music/AndresCepeda-YoQueTantoTeEspere.mp3",
+            "image":""
+        },
+        {
+            "id":70,
+            "name":"ChopSuey",
+            "artist":"System of a Down",
+            "song":"../music/SystemOfADown-ChopSuey.mp3",
+            "image":""
+        },
+        {
+            "id":71,
+            "name":"Y que",
+            "artist":"Axel",
+            "song":"../music/Axel-YQue.mp3",
+            "image":""
+        },
+        {
+            "id":72,
+            "name":"Estar enamorado",
+            "artist":"Golpe a golpe",
+            "song":"../music/GolpeAGolpe-EstarEnamorado.mp3",
+            "image":""
+        },
+        {
+            "id":73,
+            "name":"Mientes",
+            "artist":"Camila",
+            "song":"../music/Camila-Mientes.mp3",
+            "image":""
+        },
+        {
+            "id":74,
+            "name":"Ya me enteré",
+            "artist":"Reik",
+            "song":"../music/Reik - Ya Me Enteré.mp3",
+            "image":""
+        },
+        {
+            "id":75,
+            "name":"Vuelves",
+            "artist":"Rozalén",
+            "song":"../music/Rozalén - Vuelves.mp3",
+            "image":""
+        },
+        {
+            "id":76,
+            "name":"De que me vas a hablar",
+            "artist":"DreadMarI",
+            "song":"../music/DreadMarI-DeQueMeVasAHablar.mp3",
+            "image":""
+        },
+        {
+            "id":77,
+            "name":"Tratame suavemente",
+            "artist":"Soda Stereo",
+            "song":"../music/SodaStereo-TratameSuavemente.mp3",
+            "image":""
+        },
+        {
+            "id":78,
+            "name":"Desesperado",
+            "artist":"Andrés Cepeda",
+            "song":"../music/AndresCepeda-Desesperado.mp3",
+            "image":""
+        },
+        {
+            "id":79,
+            "name":"No te apartes de mi",
+            "artist":"Vicentico",
+            "song":"../music/Vicentico-NoTeApartesDeMi.mp3",
+            "image":""
+        },
+        {
+            "id":80,
+            "name":"Heathens",
+            "artist":"Twenty one pilots",
+            "song":"../music/TwentyOnePilots-Heathens.mp3",
+            "image":""
+        },
+        {
+            "id":81,
+            "name":"Enamorate",
+            "artist":"Dvcio",
+            "song":"../music/Dvicio-Enamorate.mp3",
+            "image":""
+        },
+        {
+            "id":82,
+            "name":"Todo cambio",
+            "artist":"Camila",
+            "song":"../music/Camila-TodoCambio.mp3",
+            "image":""
+        },
+        {
+            "id":83,
+            "name":"Que hago yo",
+            "artist":"Dread mar I",
+            "song":"../music/DreadMarI-QueHagoYo.mp3",
+            "image":""
+        },
+        {
+            "id":84,
+            "name":"Creo que me enamore",
+            "artist":"Vicentico",
+            "song":"../music/Vicentico-CreoQueMeEnamore.mp3",
+            "image":""
+        },
+        {
+            "id":85,
+            "name":"De la tierra crece",
+            "artist":"Zona Ganjah",
+            "song":"../music/ZonaGanjah-DeLaTierraCrece.mp3",
+            "image":""
+        },
+        {
+            "id":86,
+            "name":"Volando tan alto",
+            "artist":"Resistencia Suburbana",
+            "song":"../music/Resistencia Suburbana - Volando Tan Alto.mp3",
+            "image":""
+        },
+        {
+            "id":87,
+            "name":"Rimas pa seducir",
+            "artist":"Cultura Profetica",
+            "song":"../music/CulturaProfetica-RimasPaSeducir.mp3",
+            "image":""
+        },
+        {
+            "id":88,
+            "name":"Alguien",
+            "artist":"Kany Garcia",
+            "song":"../music/KanyGarcia-Alguien.mp3",
+            "image":""
+        },
+        {
+            "id":89,
+            "name":"Todo biento",
+            "artist":"Pipa para tabaco",
+            "song":"../music/Pipa Para Tabaco - Todo Biento.mp3",
+            "image":""
+        }
+        ,
+        {
+            "id":90,
+            "name":"Mil horas",
+            "artist":"Los abuelos de la nada",
+            "song":"../music/LosAbuelosDeLaNada-MilHoras.mp3",
+            "image":""
+        }
+    ]
+}
